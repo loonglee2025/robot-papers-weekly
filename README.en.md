@@ -23,6 +23,11 @@ robot-papers-weekly/
 
 | Date | File | Papers | Topics |
 |------|------|--------|--------|
+| 2026-07-15 | [papers/2026-07-15-papers.md](./papers/2026-07-15-papers.md) | 50 | Embodied AI & World Models, Manipulation & Dexterous Operation, Humanoid & Bipedal Locomotion, Mobile & Motion Control, Navigation & SLAM, ROS & Robot Middleware |
+| 2026-07-07 | [papers/2026-07-07-papers.md](./papers/2026-07-07-papers.md) | 53 | Embodied AI, Manipulation & Grasping, Humanoid Robots, Navigation & Localization, Motion Control, Multi-Agent, Perception & Learning |
+| 2026-07-01 | [papers/2026-07-01-papers.md](./papers/2026-07-01-papers.md) | 41 | ROS & Robot Middleware, Embodied AI & World Models, Humanoid & Bipedal Locomotion, Manipulation & Dexterous Operation, Navigation & SLAM, Robot Learning & Control |
+| 2026-06-24 | [papers/2026-06-24-papers.md](./papers/2026-06-24-papers.md) | 100 | Embodied AI, Manipulation & Grasping, Humanoid Robots, Mobile & Motion Control, Navigation & Localization, Sim-to-Real, Robot Learning, Perception & Vision, Safety & Reliability, HRI |
+| 2026-06-17 | [papers/2026-06-17-papers.md](./papers/2026-06-17-papers.md) | 50 | Embodied AI & Dexterous Manipulation, Manipulation & Grasping, Navigation & SLAM, Humanoid & Motion Control, Robot Learning |
 | 2026-06-10 | [papers/2026-06-10-papers.md](./papers/2026-06-10-papers.md) | 45 | Embodied AI, Manipulation & Grasping, Humanoid Robots, Motion Control, Navigation & Localization |
 
 > Each weekly digest is organized by topic and includes paper title, authors, arXiv link, publication date, one-line summary, and full abstract.
